@@ -1,0 +1,3 @@
+mov 0x8049a1c, %eax
+add $0x1, %eax
+mov %eax, 0x8049a1c
